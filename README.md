@@ -63,7 +63,7 @@ The form collects the following features:
 - Displays whether the patient is at high or low risk of heart disease
 
 ## Author
-- Ankit Kumar Singh
+- Manish Kumar 
 
 ## License
 This project is for educational purposes.
