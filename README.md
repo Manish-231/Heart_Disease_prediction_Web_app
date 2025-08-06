@@ -3,7 +3,7 @@
 This project is a machine learning-powered web application for predicting the likelihood of heart disease based on user input. It uses a trained DecisionTreeClassifier model and a Flask backend.
 
 ## Demo
-![Demo of Heart Disease Prediction App](demo.gif.mp4)
+![Demo of Heart Disease Prediction App](demo.gif)
 
 
 ## Features
