@@ -34,7 +34,7 @@ This project is a machine learning-powered web application for predicting the li
    ```bash
    python app.py
    ```
-5. Open your browser and go to `http://localhost:5000`
+5. Open your browser and go to `http://127.0.0.1:5000/`
 
 ## File Structure
 - `app.py` : Flask backend and prediction logic
